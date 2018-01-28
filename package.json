@@ -1,7 +1,7 @@
 {
-  "name": "byteball-witness",
+  "name": "GAEA-witness",
   "description": "Byteball witness",
-  "author": "Byteball",
+  "author": "GAEA",
   "version": "0.1.7",
   "main": "start.js",
   "keywords": [
@@ -10,11 +10,11 @@
   ],
   "license": "MIT",
   "repository": {
-    "url": "git://github.com/byteball/byteball-witness.git",
+    "url": "git://github.com/guijun/byteball-witness.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/byteball/byteball-witness/issues"
+    "url": "https://github.com/guijun/byteball-witness/issues"
   },
   "browser": {
     "request": "browser-request",
@@ -22,6 +22,6 @@
   },
   "dependencies": {
     "byteballcore": "^0.2.1",
-    "headless-byteball": "git+https://github.com/byteball/headless-byteball.git"
+    "headless-GAEA": "git+https://github.com/guijun/headless-byteball.git"
   }
 }
